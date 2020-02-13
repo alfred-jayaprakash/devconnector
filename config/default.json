@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://taskapp:jJcuoibqqRoIOKNi@devconnector-cxjvu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysocialapp",
+    "githubClientId": "Iv1.d5daea99a358fc58",
+    "githubClientSecret": "4e8dd9d9129f63a64826c97c5d74fac5a39b4439"
+}
